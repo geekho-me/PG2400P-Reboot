@@ -15,3 +15,10 @@ john@GeekHome:~$ python router_reboot.py --ip 192.168.1.101 --password MyStrongP
 [+] Sending reboot command...
 [+] Reboot command accepted (ERROR=000). The router should be rebooting now.
 ```
+
+## Compatibility
+
+Tested working on:
+
+* TP-Link [PG200P Kit](https://www.tp-link.com/uk/home-networking/powerline/pg2400p-kit/) G.hn2400 Passthrough Powerline Kit
+  * Firmware `1.1.0 Build 20250710 Rel.56841`
