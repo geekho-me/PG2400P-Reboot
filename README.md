@@ -4,6 +4,8 @@
 
 This script is used to automate the reboot of the TP-Link PG2400P G.hn2400 Powerline Kit.
 
+See related [blogpost](https://geekho.me/posts/tp-link-pg2400p-reboot-script/).
+
 ## Usage
 
 ```bash
